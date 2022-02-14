@@ -1,3 +1,3 @@
-# test_repository Read me
-for test
-テスト用
+# References repository Read me
+このリポジトリは参考ドキュメント格納用です。
+
